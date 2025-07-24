@@ -73,11 +73,6 @@
       "domain_files": ["renegadex.txt"]
     },
     {
-      "name": "riot",
-      "description": "CDN for Riot Games",
-      "domain_files": ["riot.txt"]
-    },
-    {
       "name": "rockstar",
       "description": "CDN for Rockstar Games",
       "domain_files": ["rockstar.txt"]
@@ -86,11 +81,6 @@
       "name": "sony",
       "description": "CDN for Sony/PSN",
       "domain_files": ["sony.txt"]
-    },
-    {
-      "name": "square",
-      "description": "CDN for Final Fantasy XIV",
-      "domain_files": ["square.txt"]
     },
     {
       "name": "steam",
